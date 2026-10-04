@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436206066088",
+    "project_id": "statusvault-c4aaf",
+    "storage_bucket": "statusvault-c4aaf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436206066088:android:9f50fde3b0bb479381659d",
+        "android_client_info": {
+          "package_name": "com.kaboas.statusvault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjUCv5DfPNSTSS8NM1HLMpDYJSwYBhTLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
