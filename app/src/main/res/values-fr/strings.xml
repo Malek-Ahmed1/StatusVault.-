@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StatusVault</string>
+    <string name="brand_name">par Kaboas Nova</string>
+    <string name="open_whatsapp">Ouvrir WhatsApp</string>
+    <string name="watch_reels">Regarder les Reels</string>
+    <string name="home">Accueil</string>
+    <string name="favorites">Favoris</string>
+    <string name="our_apps">Nos Apps</string>
+    <string name="contact_us">Contactez-nous</string>
+    <string name="about_us">À propos</string>
+    <string name="my_messages">Mes Messages</string>
+    <string name="open_whatsapp_error">WhatsApp n\'est pas installé</string>
+    <string name="download">Télécharger</string>
+    <string name="delete">Supprimer</string>
+    <string name="send">Envoyer</string>
+    <string name="clear">Effacer</string>
+    <string name="sending">Envoi...</string>
+    <string name="message_sent">Message envoyé</string>
+    <string name="message_failed">Échec de l\'envoi</string>
+    <string name="write_message">Écrivez votre message ici...</string>
+    <string name="please_write">Écrivez d\'abord votre message</string>
+    <string name="cleared">Effacé</string>
+    <string name="no_media">Aucun média</string>
+    <string name="no_media_desc">Ouvrez WhatsApp pour voir les statuts</string>
+    <string name="no_favorites">Aucun favori</string>
+    <string name="no_favorites_desc">Appuyez sur le cœur pour ajouter</string>
+    <string name="no_messages">Aucun message</string>
+    <string name="no_messages_desc">Les réponses apparaîtront ici</string>
+    <string name="learn_more">En savoir plus</string>
+    <string name="videos">Vidéos</string>
+    <string name="photos">Photos</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="complaint">Plainte</string>
+    <string name="questions_requests">Questions &amp; Demandes</string>
+    <string name="contact_us_title">Contactez-nous</string>
+    <string name="translate">Traduire</string>
+    <string name="theme">Thème</string>
+    <string name="close">Fermer</string>
+    <string name="new_reply">Nouvelle Réponse</string>
+    <string name="new_reply_desc">Vous avez une nouvelle réponse de StatusVault</string>
+    <string name="daily_limit">Limite quotidienne atteinte. Réessayez demain.</string>
+</resources>

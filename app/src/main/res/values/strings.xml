@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StatusVault</string>
+    <string name="brand_name">by Kaboas Nova</string>
+    <string name="open_whatsapp">Open WhatsApp</string>
+    <string name="watch_reels">Watch Your Reels</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="our_apps">Our Apps</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="about_us">About Us</string>
+    <string name="my_messages">My Messages</string>
+    <string name="open_whatsapp_error">WhatsApp is not installed</string>
+    <string name="download">Download</string>
+    <string name="delete">Delete</string>
+    <string name="send">Send</string>
+    <string name="clear">Clear</string>
+    <string name="sending">Sending...</string>
+    <string name="message_sent">Message sent</string>
+    <string name="message_failed">Failed to send</string>
+    <string name="write_message">Write your message here...</string>
+    <string name="please_write">Please write your message first</string>
+    <string name="cleared">Cleared</string>
+    <string name="no_media">No media yet</string>
+    <string name="no_media_desc">Open WhatsApp to view statuses</string>
+    <string name="no_favorites">No favorites yet</string>
+    <string name="no_favorites_desc">Tap the heart on any media</string>
+    <string name="no_messages">No messages yet</string>
+    <string name="no_messages_desc">Your replies will appear here</string>
+    <string name="learn_more">Learn More</string>
+    <string name="videos">Videos</string>
+    <string name="photos">Photos</string>
+    <string name="suggestion">Suggestion</string>
+    <string name="complaint">Complaint</string>
+    <string name="questions_requests">Questions &amp; Requests</string>
+    <string name="contact_us_title">Contact Us</string>
+    <string name="translate">Translate</string>
+    <string name="theme">Theme</string>
+    <string name="close">Close</string>
+    <string name="new_reply">New Reply</string>
+    <string name="new_reply_desc">You have a new reply from StatusVault team</string>
+    <string name="daily_limit">Daily limit reached. Try again tomorrow.</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ستاتس فولت</string>
+    <string name="brand_name">من كابواس نوفا</string>
+    <string name="open_whatsapp">افتح واتساب</string>
+    <string name="watch_reels">شاهد الريلز</string>
+    <string name="home">الرئيسية</string>
+    <string name="favorites">المفضلة</string>
+    <string name="our_apps">تطبيقاتنا</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="about_us">عنا</string>
+    <string name="my_messages">رسائلي</string>
+    <string name="open_whatsapp_error">واتساب غير مثبت</string>
+    <string name="download">تحميل</string>
+    <string name="delete">حذف</string>
+    <string name="send">إرسال</string>
+    <string name="clear">مسح</string>
+    <string name="sending">جاري الإرسال...</string>
+    <string name="message_sent">تم إرسال الرسالة</string>
+    <string name="message_failed">فشل الإرسال</string>
+    <string name="write_message">اكتب رسالتك هنا...</string>
+    <string name="please_write">اكتب رسالتك أولاً</string>
+    <string name="cleared">تم المسح</string>
+    <string name="no_media">لا توجد وسائط</string>
+    <string name="no_media_desc">افتح واتساب لمشاهدة الحالات</string>
+    <string name="no_favorites">لا توجد مفضلات</string>
+    <string name="no_favorites_desc">اضغط على القلب لإضافة وسائط</string>
+    <string name="no_messages">لا توجد رسائل</string>
+    <string name="no_messages_desc">ستظهر الردود هنا</string>
+    <string name="learn_more">اعرف المزيد</string>
+    <string name="videos">فيديوهات</string>
+    <string name="photos">صور</string>
+    <string name="suggestion">اقتراح</string>
+    <string name="complaint">شكوى</string>
+    <string name="questions_requests">أسئلة وطلبات</string>
+    <string name="contact_us_title">اتصل بنا</string>
+    <string name="translate">الترجمة</string>
+    <string name="theme">المظهر</string>
+    <string name="close">إغلاق</string>
+    <string name="new_reply">رد جديد</string>
+    <string name="new_reply_desc">لديك رد جديد من فريق ستاتس فولت</string>
+    <string name="daily_limit">تم الوصول للحد اليومي. حاول غداً.</string>
+</resources>

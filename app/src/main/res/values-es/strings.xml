@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StatusVault</string>
+    <string name="brand_name">por Kaboas Nova</string>
+    <string name="open_whatsapp">Abrir WhatsApp</string>
+    <string name="watch_reels">Ver Reels</string>
+    <string name="home">Inicio</string>
+    <string name="favorites">Favoritos</string>
+    <string name="our_apps">Nuestras Apps</string>
+    <string name="contact_us">Contáctanos</string>
+    <string name="about_us">Sobre Nosotros</string>
+    <string name="my_messages">Mis Mensajes</string>
+    <string name="open_whatsapp_error">WhatsApp no está instalado</string>
+    <string name="download">Descargar</string>
+    <string name="delete">Eliminar</string>
+    <string name="send">Enviar</string>
+    <string name="clear">Borrar</string>
+    <string name="sending">Enviando...</string>
+    <string name="message_sent">Mensaje enviado</string>
+    <string name="message_failed">Error al enviar</string>
+    <string name="write_message">Escribe tu mensaje aquí...</string>
+    <string name="please_write">Por favor escribe tu mensaje primero</string>
+    <string name="cleared">Borrado</string>
+    <string name="no_media">Sin medios</string>
+    <string name="no_media_desc">Abre WhatsApp para ver estados</string>
+    <string name="no_favorites">Sin favoritos</string>
+    <string name="no_favorites_desc">Toca el corazón para añadir</string>
+    <string name="no_messages">Sin mensajes</string>
+    <string name="no_messages_desc">Las respuestas aparecerán aquí</string>
+    <string name="learn_more">Saber más</string>
+    <string name="videos">Videos</string>
+    <string name="photos">Fotos</string>
+    <string name="suggestion">Sugerencia</string>
+    <string name="complaint">Queja</string>
+    <string name="questions_requests">Preguntas y Solicitudes</string>
+    <string name="contact_us_title">Contáctanos</string>
+    <string name="translate">Traducir</string>
+    <string name="theme">Tema</string>
+    <string name="close">Cerrar</string>
+    <string name="new_reply">Nueva Respuesta</string>
+    <string name="new_reply_desc">Tienes una nueva respuesta de StatusVault</string>
+    <string name="daily_limit">Límite diario alcanzado. Inténtalo mañana.</string>
+</resources>
